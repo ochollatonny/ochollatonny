@@ -8,13 +8,10 @@
 
 I'm a **Full Stack Web Developer** passionate about building clean, scalable applications that solve real-world problems. I enjoy working across the stack — from designing robust backend systems with Spring Boot to crafting responsive frontends with Next.js.
 
-🔭 **Currently exploring:** Advanced Spring Modulith patterns, Next.js App Router, and scalable system design.
-
-🌱 **Learning:** System architecture, performance optimization, and building developer-friendly tools.
-
-💬 **Ask me about:** Java, Spring Boot, Next.js, TypeScript, and API design.
-
-⚡ **Fun fact:** When I'm not coding, I'm trying to learn guitar; currently attempting to play "Zombie" by The Cranberries for the 50th time (progress is slow, but the passion is real).
+- 🔭 **Currently exploring:** Advanced Spring Modulith patterns, Next.js App Router, and scalable system design.
+- 🌱 **Learning:** System architecture, performance optimization, and building developer-friendly tools.
+- 💬 **Ask me about:** Java, Spring Boot, Next.js, TypeScript, and API design.
+- ⚡ **Fun fact:** When I'm not coding, I'm trying to learn guitar — currently attempting to play "Zombie" by The Cranberries for the 50th time. Progress is slow, but the passion is real.
 
 ## 🛠️ Tech Stack
 
@@ -41,7 +38,7 @@ I'm a **Full Stack Web Developer** passionate about building clean, scalable app
 
 ## 🚀 Featured Projects
 
-🔗 *Coming soon*
+> 🚧 *Coming soon — building something interesting!*
 
 ## 🤝 Connect With Me
 
@@ -57,4 +54,10 @@ I'm a **Full Stack Web Developer** passionate about building clean, scalable app
 
 <br />
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ochollatonny&custom_title=Ocholla%20Tonny's%20Contribution%20Graph&bg_color=f8f9fa&color=2c3e50&line=6DB33F&point=6DB33F&area=true&area_color=6DB33F10&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ochollatonny&custom_title=Ocholla%20Tonny's%20Contribution%20Graph&bg_color=f8f9fa&color=2c3e50&line=6DB33F&point=6DB33F&area=true&area_color=6DB33F10&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ochollatonny&color=6DB33F&style=flat-square" alt="Profile Views" />
+</div>
