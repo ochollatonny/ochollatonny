@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 <h1 align="left">
   Hey there! 👋 I'm Ocholla Tonny<br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6DB33F&width=500&lines=Full+Stack+Web+Developer;Welcome+to+my+GitHub!" alt="Full Stack Web Developer — Spring Boot and Next.js" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6DB33F&width=500&lines=Full+Stack+Web+Developer;Spring+Boot+%7C+Next.js;Welcome+to+my+GitHub!" alt="Full Stack Web Developer — Spring Boot and Next.js" />
 </h1>
 
 ## 🛠️ Tech Stack
